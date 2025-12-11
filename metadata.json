@@ -1,0 +1,5 @@
+{
+  "name": "TruthLens",
+  "description": "A forensic-style AI image analysis tool using Gemini 3 Pro to detect synthetic artifacts.",
+  "requestFramePermissions": []
+}
