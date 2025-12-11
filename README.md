@@ -45,12 +45,17 @@ AI models often live in a timeless void. We solved this.
 
 ## 🚀 Roadmap: The Next Frontier
 
-### 🎙️ Upcoming: Audio Spectrum Analysis
+### 🌐 Ubiquitous Access (Web + Chrome Extension)
+In our upcoming production phase, we are moving beyond just a standalone website.
+* **The Vision:** Verifying truth should be as easy as a right-click.
+* **The Extension:** We are developing a **TruthLens Chrome Extension** that integrates directly into your browser. This will allow users to instantly scan images on social media (X, Instagram, WhatsApp Web) without needing to download and re-upload files to our web app.
+
+### 🎙️ Audio Spectrum Analysis
 **Why isn't it here yet?**
 Audio deepfakes (Voice Cloning) require a fundamentally different approach than visual media. While video relies on pixel consistency, audio requires **Spectrogram Analysis** to detect synthetic frequency cut-offs and robotic breathing patterns.
 
 **Status:**
-We are currently training a specialized "Audio Pulse" module to detect these sub-perceptual artifacts. This feature will roll out in **Phase 2**, enabling full A/V verification.
+We are training a specialized "Audio Pulse" module to detect these sub-perceptual artifacts. This feature will roll out in **Phase 2**, enabling full A/V verification.
 
 ---
 
@@ -68,7 +73,7 @@ Designed with a "DeepMind-inspired" aesthetic—dark mode, glassmorphism, and ir
 ## 🤝 Contributing
 **We cannot fight synthetic misinformation alone.**
 
-TruthLens is an open mission. Whether you are a prompt engineer, a React developer, or a forensic researcher, your help is needed.
+TruthLens is an open mission. If you are a prompt engineer, a React developer, or a forensic researcher, I would appreciate your help.
 
 * **Found a bug?** Open an Issue.
 * **Have a new forensic rule?** Submit a Pull Request.
@@ -77,5 +82,5 @@ TruthLens is an open mission. Whether you are a prompt engineer, a React develop
 Check out our `CONTRIBUTING.md` (coming soon) or just fork the repo and start building. Let's verify the world, together.
 
 ---
-[Built with: Gemini 3 Pro] [Style: DeepMind Vibe] [Platform: AI Studio]
+
 *"Truth is not a default setting anymore. We have to verify it."* — **TruthLens**
