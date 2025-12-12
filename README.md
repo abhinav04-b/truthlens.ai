@@ -2,8 +2,8 @@
 ### The Multimodal Shield Against Synthetic Reality
 **Powered by Google Gemini 3 Pro**
 
-![TruthLens Banner](https://via.placeholder.com/1200x400.png?text=TruthLens+%7C+Verify+Images+&+Video)
-*(Replace above with your actual Hero Image)*
+![TruthLens Banner] <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/18205bc4-5433-4bd2-a860-a55e259c7d00" />
+
 
 [![Gemini 3 Pro](https://img.shields.io/badge/AI-Gemini%203%20Pro-4285F4?style=for-the-badge&logo=google)](https://deepmind.google/technologies/gemini/)
 [![Platform](https://img.shields.io/badge/Built%20On-Google%20AI%20Studio-orange?style=for-the-badge)](https://ai.google.dev/)
